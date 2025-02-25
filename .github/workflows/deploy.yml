@@ -25,4 +25,4 @@ jobs:
 
       - name: Run bot
         run: |
-          nohup python main.py &  # Замените bot.py на main.py
+          nohup python main.py &
